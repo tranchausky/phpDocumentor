@@ -142,7 +142,8 @@ Reaching out to us is easy, and can be done with:
 
 Composer to run
 -------
-get file composer
+get file composer   
+https://github.com/phpDocumentor/phpDocumentor/releases   
 https://github.com/phpDocumentor/phpDocumentor/releases/download/v3.4.3/phpDocumentor.phar
 
     php phpDocumentor.phar run -h
