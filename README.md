@@ -138,3 +138,14 @@ Reaching out to us is easy, and can be done with:
 [Docker]: https://hub.docker.com/r/phpdoc/phpdoc/
 [Composer]: https://getcomposer.org/
 [mike@phpdoc.org]: mailto:mike@phpdoc.org
+
+
+Composer to run
+-------
+get file composer
+https://github.com/phpDocumentor/phpDocumentor/releases/download/v3.4.3/phpDocumentor.phar
+
+    php phpDocumentor.phar run -h
+    php phpDocumentor.phar run -d <SOURCE_DIRECTORY> -t <TARGET_DIRECTORY>
+
+
